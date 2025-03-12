@@ -1,16 +1,16 @@
-Project:  Qunatitative Easing Impact Analysis
+# Project:  Qunatitative Easing Impact Analysis
 Producer: Wooserk Park
 Last Update: June 25, 2020
 
-** Data **
+## Data
 
-** a. Fed's Balance Sheet
+### a. Fed's Balance Sheet
 
       Data Download:
 	1. from the Federal Reserve Board
 		https://www.federalreserve.gov/releases/h41/current/
 
-** b. Credit Access Data
+### b. Credit Access Data
 
       Data Download:
 	1. from the Federal Reserve Bank of New York (FBRNY)
@@ -23,3 +23,7 @@ Last Update: June 25, 2020
 		https://www.newyorkfed.org/microeconomics/databank.html 
 		-> Housing Market 
 		-> SCE CREDIT ACCESS SURVEY
+
+## Output Example
+
+![FRBNY_mortgage_origination](https://github.com/user-attachments/assets/5804142f-0cdf-4018-a908-6f0a6d1153fc)
